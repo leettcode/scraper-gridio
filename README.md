@@ -1,5 +1,5 @@
 # Coding
-Unfinished, see video recording
+Unfinished, see video recording https://drive.google.com/file/d/1aRoefP3W2j2DmUelyiJ4bSGmjD2MB0x9/view?usp=sharing
 Based on closed source personal project structure that I plan to opensource
 
 and hexagonal architecture https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
