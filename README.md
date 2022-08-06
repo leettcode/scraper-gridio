@@ -1,3 +1,15 @@
+# Coding
+Unfinished, see video recording
+Based on closed source personal project structure that I plan to opensource
+
+and hexagonal architecture https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+
+and go standards https://github.com/golang-standards/project-layout
+
+Code is taken from similar past project and altered, I've removed most stuff
+
+Didn't manage to cover with tests but you can check for reference the code style
+
 # Problem solving
 
 Microservice architecture brainstorming
